@@ -7,8 +7,8 @@ int main() {
     int dano;
     int peso;
     int res;
-
     int cases;
+    
     scanf("%d", &cases);
     while (cases--) {
         scanf("%d", &n);

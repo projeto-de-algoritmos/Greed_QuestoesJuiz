@@ -20,12 +20,13 @@ Exercícios escolhidos:
 
 ![Accepted 1288](Canhão_de_Destruição_1288/1288.png)
 
-## Instalação 
+## Especificação
 **Linguagem**: C<br>
 
 
 ## Uso 
 
+Para rodar os programas, você só precisa fazer o download dos códigos e carregá-los em um compilador online ou em um editor de código-fonte.
 
 ## Outros 
 
