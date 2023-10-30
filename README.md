@@ -14,15 +14,11 @@ Exercícios do Beecrowd com nível 5 ou mais.
   
 Exercícios escolhidos:
 
-<!-- - [Labirinto - 1621](https://www.beecrowd.com.br/repository/UOJ_1621.html)
-- [Brazilian Metro - 1698](https://www.beecrowd.com.br/judge/en/problems/view/1698)
-- [Knight Moves - 1100](https://www.beecrowd.com.br/judge/en/problems/view/1100)
-- [Salas Separadas - 1979](https://www.beecrowd.com.br/repository/UOJ_1979.html) -->
+- [Canhão de Destruição - 1288: ](https://www.beecrowd.com.br/repository/UOJ_1288.html)No jogo "Canhão de Destruição", você deve destruir um castelo com resistência R. Você tem um canhão com capacidade K e vários projéteis de chumbo com poder de destruição X e peso Y. Sua missão é carregar o canhão com projéteis de forma a maximizar o dano ao castelo sem exceder a capacidade de carga do canhão. Se o dano total causado pelos projéteis for maior ou igual a R, você vence ("Missao completada com sucesso"). Caso contrário, é uma derrota ("Falha na missao").
 
 ## Screenshots
 
-<!-- ![Accepted 1621](Labirinto_1621/img/1621.jpeg)
-![Accepted 1979](Salas_Separadas_1979/img/1979.png) -->
+![Accepted 1288](Canhão_de_Destruição_1288/1288.png)
 
 ## Instalação 
 **Linguagem**: C<br>
