@@ -10,7 +10,7 @@ void main () {
 	char palavra[MAXSIZE + 1];
 
 	while (scanf("%d %d %d", &n, &l, &c) != EOF) {
-    	paginas = linhas = 1;
+    	paginas = linhas = 1; //Reseta o texto
     	scanf("%s", palavra);
     	letras = strlen(palavra);
 
@@ -20,13 +20,13 @@ void main () {
 			scanf("%s", palavra);
 
 			x = strlen(palavra);
-
+			// Testa se é possível adicionar a palavra lida na mesma linha de antes
 			if ((letras + x + 1) <= c)
 				letras += x + 1;
-			else {
+			else { //Precisou de outra linha
 				++linhas;
-				if (linhas > l)
-					++paginas, linhas = 1;
+				if (linhas > l) //Precisou de outra página
+					++paginas, linhas = 1; //Página++, Reset do numero de linhas
 
 				letras = x;
 
