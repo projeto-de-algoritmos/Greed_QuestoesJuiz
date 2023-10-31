@@ -1,6 +1,6 @@
 # Exercícios Juiz Online
 
-- **Número da Lista**: 31
+- **Número da Lista**: 29
 - **Conteúdo da Disciplina**: Algorítmos Ambiciosos
 
 ## Alunos
